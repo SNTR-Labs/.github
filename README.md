@@ -1,3 +1,5 @@
+![SNTR-Labs logo](profile/assets/FullLogo_Transparent_NoBuffer.png)
+
 # SNTR-Labs
 
 SNTR-Labs is the engineering and open-source organization for **SNTR Corp (Systems, Networks, Trust, and Resilience)**.
