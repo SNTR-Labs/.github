@@ -1,4 +1,4 @@
-![SNTR-Labs logo](assets/FullLogo_Transparent_NoBuffer.png)
+![SNTR-Labs logo](https://raw.githubusercontent.com/SNTR-Labs/.github/main/profile/assets/FullLogo_Transparent_NoBuffer.png)
 # SNTR-Labs
 
 SNTR-Labs is the engineering and open-source organization for **SNTR Corp (Systems, Networks, Trust, and Resilience)**.
